@@ -1,3 +1,5 @@
+#http://joey711.github.io/phyloseq/install
+
 library(phyloseq)
 library(plyr)
 setwd('~/scratch/R-files/')
